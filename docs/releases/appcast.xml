@@ -1,0 +1,34 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>APX Ground Control</title>
+        <item>
+            <title>11.1.7</title>
+            <pubDate>Wed, 09 Nov 2022 15:08:11 +0000</pubDate>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <enclosure length="101396935" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.1.7/APX_Ground_Control-11.1.7-macos-x86_64.dmg" sparkle:edSignature="/XnLIe8bO6apfUFr39ABUTNS6VCwy4SEUi9ACVfErcBImhY1w+ncTaSNA4fca0jskDmo9t06/dfQFiRLNaBxDA==" sparkle:shortVersionString="11.1.7" sparkle:version="11.1.7" />
+            <sparkle:deltas>
+                <enclosure length="90230" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.1.7/update_dmg-11.1.7-11.1.6.delta" sparkle:deltaFrom="11.1.6" sparkle:edSignature="t3/yd4Wj7ebRcF9L6LRIqb7yhVm3d/rmxUM+FRAly4gFwutoXo7tLM2DikEudwezTNBkMPLzKE+8jkf4vuy4DQ==" sparkle:shortVersionString="11.1.7" sparkle:version="11.1.7" />
+                <enclosure length="132341" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.1.7/update_dmg-11.1.7-11.1.5.delta" sparkle:deltaFrom="11.1.5" sparkle:edSignature="viimL9LKxAU6fXyN4eAwPkQO32dXNSxQyTDG17eK++rdVCzBIADTmAW102FaC8/WrfI/6zVv3IJcBCA2jhImDA==" sparkle:shortVersionString="11.1.7" sparkle:version="11.1.7" />
+                <enclosure length="159936" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.1.7/update_dmg-11.1.7-11.1.4.delta" sparkle:deltaFrom="11.1.4" sparkle:edSignature="234uSJOfSZGeK0+9Wxt8gXHeWKtQK68HVlIdRcRwNi9tGXyHTHxoCpffNYuIa26tjdlt4H9aSbGT1J8kmP3kDQ==" sparkle:shortVersionString="11.1.7" sparkle:version="11.1.7" />
+            </sparkle:deltas>
+        <sparkle:releaseNotesLink>https://uavos.github.io/apx-gcs/docs/releases/release-11.1.7.html</sparkle:releaseNotesLink></item>
+        <item>
+            <title>11.1.6</title>
+            <pubDate>Wed, 09 Nov 2022 15:07:48 +0000</pubDate>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <enclosure length="101396979" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.1.6/APX_Ground_Control-11.1.6-macos-x86_64.dmg" sparkle:edSignature="qb6pFfi2hU9c5IYdw2TJEv6noaCEdru8Xx1r0fAfRGPCJ27rd4+XQh+cLxfepCTRmPShjC4mYW4t9LsWHYA7Bw==" sparkle:shortVersionString="11.1.6" sparkle:version="11.1.6" />
+        <sparkle:releaseNotesLink>https://uavos.github.io/apx-gcs/docs/releases/release-11.1.6.html</sparkle:releaseNotesLink></item>
+        <item>
+            <title>11.1.5</title>
+            <pubDate>Wed, 09 Nov 2022 15:08:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <enclosure length="101396075" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.1.5/APX_Ground_Control-11.1.5-macos-x86_64.dmg" sparkle:edSignature="LsTclXjATIJlxCMk+O1U7GqzmMfYIU1qQOgLZDK/He237b2lFbCknjhSAA0MEx76XCBwXZl1M+HTOqLEv4TaAA==" sparkle:shortVersionString="11.1.5" sparkle:version="11.1.5" />
+        <sparkle:releaseNotesLink>https://uavos.github.io/apx-gcs/docs/releases/release-11.1.5.html</sparkle:releaseNotesLink></item>
+        <item>
+            <title>11.1.4</title>
+            <pubDate>Wed, 09 Nov 2022 15:08:05 +0000</pubDate>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <enclosure length="101396520" type="application/octet-stream" url="https://github.com/uavos/apx-gcs/releases/download/release-11.1.4/APX_Ground_Control-11.1.4-macos-x86_64.dmg" sparkle:edSignature="8D5nPUDWWwiFworh/wEfTYnCV4GpL2RsOQG95+JCaP1SCffK86W21J59bDFxifkAkuI2PBfSt2+VMRpeyYE/Bg==" sparkle:shortVersionString="11.1.4" sparkle:version="11.1.4" />
+        <sparkle:releaseNotesLink>https://uavos.github.io/apx-gcs/docs/releases/release-11.1.4.html</sparkle:releaseNotesLink></item>
+    </channel>
+</rss>
